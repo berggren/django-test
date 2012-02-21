@@ -1,1 +1,1 @@
-{"hosts": ["srv03.app.nordu.net"], "settings": "settings", "type": "django"}
+{"hosts": ["srv03.app.nordu.net"], "settings": "settings", "type": "django", "domains": ["meta-test.eduroam.se"]}
